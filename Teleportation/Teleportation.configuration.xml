@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TeleportationConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MessageColor>red</MessageColor>
+  <MessageIconUrl>https://i.imgur.com/wr879ca.png</MessageIconUrl>
+  <TPACooldown>90</TPACooldown>
+  <TPADelay>3</TPADelay>
+  <TPADuration>90</TPADuration>
+  <AllowRaid>false</AllowRaid>
+  <RaidDuration>30</RaidDuration>
+  <AllowCombat>false</AllowCombat>
+  <CombatDuration>20</CombatDuration>
+  <UseUnsafeTeleport>false</UseUnsafeTeleport>
+  <CancelOnMove>true</CancelOnMove>
+  <MoveMaxDistance>0.5</MoveMaxDistance>
+</TeleportationConfiguration>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="Vault_Fail_NotFound" Value="[color=red]Failed to find a vault by that ID[/color]" />
+  <Translation Id="Vault_Fail_NoPermission" Value="[color=red]You do not have permission to access vault {0}[/color]" />
+  <Translation Id="Vault_Fail_CannotLoad" Value="[color=red]Vault {0} is currently unavailable[/color]" />
+  <Translation Id="Vaults_No_Vaults" Value="[color=yellow]You don't have access to any vaults[/color]" />
+  <Translation Id="Vaults_List" Value="[color=green]Your vaults: {0}[/color]" />
+  <Translation Id="WipeVault_Wiped" Value="[color=green]Wiped {0} items from {1}'s vault {2}[/color]" />
+  <Translation Id="VaultAliases_MaxReached" Value="[color=red]Max vault aliases reached[/color]" />
+  <Translation Id="VaultAliases_Set" Value="[color=#00ffff]Vault alias created: {0} -&gt; {1}[/color]" />
+  <Translation Id="VaultAliases_Removed" Value="[color=#00ffff]Removed alias {0}[/color]" />
+  <Translation Id="VaultAliases_Remove_NotFound" Value="[color=cyan]No alias by that name found[/color]" />
+  <Translation Id="VaultAliases_List" Value="[color=#00ffff]Aliases: {1}[/color]" />
+  <Translation Id="Restrictions_Blacklisted" Value="[color=red]You cannot store that item in your vault[/color]" />
+  <Translation Id="VaultAliases_Disabled" Value="[color=red]Vault aliases are disabled on this server[/color]" />
+</Translations>

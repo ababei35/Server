@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RocketPermissions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DefaultGroup>default</DefaultGroup>
+  <Groups>
+    <Group>
+      <Id>default</Id>
+      <DisplayName>Guest</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>white</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">rocket</Permission>
+        <Permission Cooldown="0">kit</Permission>
+        <Permission Cooldown="0">kits</Permission>
+        <Permission Cooldown="0">kit.Survival</Permission>
+        <Permission Cooldown="0">kit.Soldier</Permission>
+        <Permission Cooldown="0">tpa</Permission>
+        <Permission Cooldown="0">tpa.accept</Permission>
+        <Permission Cooldown="0">vault</Permission>
+        <Permission Cooldown="0">vaults</Permission>
+        <Permission Cooldown="0">vault.default</Permission>
+        <Permission Cooldown="0">vaults.default</Permission>
+        <Permission Cooldown="0">sherbetvaults.vault</Permission>
+        <Permission Cooldown="0">sherbetvaults.vaults</Permission>
+        <Permission Cooldown="0">sherbetvaults.vault.default</Permission>
+        <Permission Cooldown="0">default</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>admin</Id>
+      <DisplayName>Admin</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>FF9900</Color>
+      <Members>
+        <Member>76561198016438091</Member>
+      </Members>
+      <ParentGroup>default</ParentGroup>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">rocket</Permission>
+        <Permission Cooldown="0">kit</Permission>
+        <Permission Cooldown="0">kits</Permission>
+        <Permission Cooldown="0">kit.start</Permission>
+        <Permission Cooldown="0">kit.Soldier</Permission>
+        <Permission Cooldown="0">tpa</Permission>
+        <Permission Cooldown="0">tpa.accept</Permission>
+        <Permission Cooldown="0">kit.Survival</Permission>
+        <Permission Cooldown="0">vault</Permission>
+        <Permission Cooldown="0">vaults</Permission>
+        <Permission Cooldown="0">vault.default</Permission>
+        <Permission Cooldown="0">sherbetvaults.vault</Permission>
+        <Permission Cooldown="0">sherbetvaults.vaults</Permission>
+        <Permission Cooldown="0">sherbetvaults.vault.default</Permission>
+        <Permission Cooldown="0">default</Permission>
+      </Permissions>
+    </Group>
+  </Groups>
+</RocketPermissions>
