@@ -1,0 +1,322 @@
+[4/6/2026 10:10:21 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[4/6/2026 10:10:21 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[4/6/2026 10:10:21 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[4/6/2026 10:10:21 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[4/6/2026 10:10:21 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[4/6/2026 10:10:21 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[4/6/2026 10:10:21 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[4/6/2026 10:10:21 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[4/6/2026 10:10:21 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[4/6/2026 10:10:21 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[4/6/2026 10:10:21 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[4/6/2026 10:10:21 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[4/6/2026 10:10:21 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[4/6/2026 10:10:21 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[4/6/2026 10:10:21 PM] [Info] [registered] /position (Rocket.Unturned.Commands.CommandPosition/position)
+[4/6/2026 10:10:21 PM] [Info] [registered] /pos (Rocket.Unturned.Commands.CommandPosition/pos)
+[4/6/2026 10:10:21 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[4/6/2026 10:10:21 PM] [Info] [registered] /savelogs (Rocket.Unturned.Commands.CommandSaveLogs/savelogs)
+[4/6/2026 10:10:21 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[4/6/2026 10:10:21 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[4/6/2026 10:10:21 PM] [Info] [registered] /tpwp (Rocket.Unturned.Commands.CommandTpwp/tpwp)
+[4/6/2026 10:10:21 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[4/6/2026 10:10:21 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[4/6/2026 10:10:21 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\BouncyCastle.Crypto.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\Google.Protobuf.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Compression.LZ4.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Compression.LZ4.Streams.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Hash.xxHash.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: MySql.Data, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\MySql.Data.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: RocketExtensions, Version=2.1.2.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\RocketExtensions.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: ShimmyMySherbet.MySQL.EF, Version=1.8.8.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\ShimmyMySherbet.MySQL.EF.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\Ubiety.Dns.Core.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: UniTask, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\UniTask.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: UniTask.Linq, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\UniTask.Linq.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\ZstdNet.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: JoinLeaveMessages, Version=1.3.1.2, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\JoinLeaveMessages.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: Kits, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: PlayerLogger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\PlayerLogger.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: SherbetVaults, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\SherbetVaults.dll
+[4/6/2026 10:10:21 PM] [Info] Rocket dependency registered: Teleportation, Version=1.8.3.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Teleportation.dll
+[4/6/2026 10:10:21 PM] [Info] Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\JoinLeaveMessages.dll
+[4/6/2026 10:10:21 PM] [Info] Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 10:10:21 PM] [Info] Loading PlayerLogger from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\PlayerLogger.dll
+[4/6/2026 10:10:22 PM] [Info] Loading SherbetVaults from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\SherbetVaults.dll
+[4/6/2026 10:10:22 PM] [Info] Loading Teleportation from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Teleportation.dll
+[4/6/2026 10:10:22 PM] [Info] 
+[loading] JoinLeaveMessages
+[4/6/2026 10:10:22 PM] [Info] 
+[loading] Kits
+[4/6/2026 10:10:22 PM] [Info] [registered] /createkit (RestoreMonarchy.Kits.Commands.CreateKitCommand/createkit)
+[4/6/2026 10:10:22 PM] [Info] [registered] /ckit (RestoreMonarchy.Kits.Commands.CreateKitCommand/ckit)
+[4/6/2026 10:10:22 PM] [Info] [registered] /deletekit (RestoreMonarchy.Kits.Commands.DeleteKitCommand/deletekit)
+[4/6/2026 10:10:22 PM] [Info] [registered] /dkit (RestoreMonarchy.Kits.Commands.DeleteKitCommand/dkit)
+[4/6/2026 10:10:22 PM] [Info] [registered] /kit (RestoreMonarchy.Kits.Commands.KitCommand/kit)
+[4/6/2026 10:10:22 PM] [Info] [registered] /kits (RestoreMonarchy.Kits.Commands.KitsCommand/kits)
+[4/6/2026 10:10:22 PM] [Info] Kits >> Kits 1.0.7 has been loaded!
+[4/6/2026 10:10:22 PM] [Info] 
+[loading] PlayerLogger
+[4/6/2026 10:10:22 PM] [Info] PlayerLogger >> Pluginul PlayerLogger a fost incarcat!
+[4/6/2026 10:10:22 PM] [Info] SherbetVaults >> Loading Sherbet Vaults v1.2.0.0...
+[4/6/2026 10:10:22 PM] [Info] SherbetVaults >> Loading restriction settings...
+[4/6/2026 10:10:22 PM] [Info] SherbetVaults >> Loaded 1 Restriction Groups with no errors.
+[4/6/2026 10:10:22 PM] [Info] 
+[loading] SherbetVaults
+[4/6/2026 10:10:22 PM] [Info] [registered] /trash (SherbetVaults.Commands.TrashCommand/Trash)
+[4/6/2026 10:10:22 PM] [Info] [registered] /vaultalias (SherbetVaults.Commands.VaultAliasCommand/VaultAlias)
+[4/6/2026 10:10:22 PM] [Info] [registered] /vault (SherbetVaults.Commands.VaultCommand/Vault)
+[4/6/2026 10:10:22 PM] [Info] [registered] /vaults (SherbetVaults.Commands.VaultsCommand/Vaults)
+[4/6/2026 10:10:22 PM] [Info] [registered] /spyvault (SherbetVaults.Commands.SpyVaultCommand/SpyVault)
+[4/6/2026 10:10:22 PM] [Info] [registered] /wipevault (SherbetVaults.Commands.WipeVaultCommand/WipeVault)
+[4/6/2026 10:10:22 PM] [Info] SherbetVaults >> Sherbet Vaults v1.2.0.0 by ShimmyMySherbet#5694 Loaded!
+[4/6/2026 10:10:22 PM] [Info] 
+[loading] Teleportation
+[4/6/2026 10:10:22 PM] [Info] [registered] /tpa (RestoreMonarchy.Teleportation.Commands.TPACommand/tpa)
+[4/6/2026 10:10:22 PM] [Info] Teleportation >> Teleportation 1.8.3.0 has been loaded!
+[4/6/2026 10:10:22 PM] [Info] Teleportation >> Check out more Unturned plugins at restoremonarchy.com
+[4/6/2026 10:10:22 PM] [Info] This server will automatically save every 1800 seconds
+[4/6/2026 10:10:22 PM] [Info] Steam servers ready!
+[4/6/2026 10:10:22 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/Server/Workshop/Steam
+[4/6/2026 10:10:22 PM] [Info] 0 workshop item(s) requested
+[4/6/2026 10:10:22 PM] [Error] Rocket could not find dependency: System.Configuration.Install
+[4/6/2026 10:10:22 PM] [Error] Rocket could not find dependency: System.Configuration.Install
+[4/6/2026 10:10:22 PM] [Error] Rocket could not find dependency: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4/6/2026 10:10:22 PM] [Error] Rocket could not find dependency: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4/6/2026 10:10:23 PM] [Info] Loading level: 5%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 10%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 15%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 21%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 26%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 31%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 36%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 42%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 47%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 52%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 57%
+[4/6/2026 10:10:23 PM] [Info] Loading level: 63%
+[4/6/2026 10:10:25 PM] [Info] Loading level: 68%
+[4/6/2026 10:10:25 PM] [Info] Loading level: 73%
+[4/6/2026 10:10:25 PM] [Info] Loading level: 89%
+[4/6/2026 10:10:25 PM] [Info] Loading level: 94%
+[4/6/2026 10:10:25 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 10:10:25 PM] [Info] Server Code: 85568392936169965
+[4/6/2026 10:10:25 PM] [Info] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[4/6/2026 10:10:25 PM] [Info] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[4/6/2026 10:10:25 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 10:10:25 PM] [Info] Loading level: 100%
+[4/6/2026 10:10:42 PM] [Info] Connecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 10:10:46 PM] [Error] Rocket could not find dependency: Assembly-CSharp-firstpass
+[4/6/2026 10:10:46 PM] [Error] Rocket could not find dependency: Assembly-CSharp-firstpass
+[4/6/2026 10:10:46 PM] [Info] Broadcast: Alexutzu connected to the server.
+[4/6/2026 10:10:46 PM] [Info] Broadcast: Alexutzu a intrat pe server! Jucatori activi: 1
+[4/6/2026 10:10:46 PM] [Info] [World] Alexutzu [Ignat]: "/kits"
+[4/6/2026 10:13:01 PM] [Info] Permissions reloaded
+[4/6/2026 10:13:18 PM] [Info] Connecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 10:13:50 PM] [Info] Broadcast: Ababe connected to the server.
+[4/6/2026 10:13:50 PM] [Info] Broadcast: Ababe a intrat pe server! Jucatori activi: 2
+[4/6/2026 10:13:50 PM] [Info] [World] Alexutzu [Ignat]: "/kits"
+[4/6/2026 10:14:30 PM] [Info] [World] Ababe [Abibabi]: "/kits"
+[4/6/2026 10:14:39 PM] [Info] [World] Ababe [Abibabi]: "/day"
+[4/6/2026 10:15:44 PM] [Info] Successfully set time to day!
+[4/6/2026 10:15:44 PM] [Info] Permissions reloaded
+[4/6/2026 10:15:54 PM] [Info] [World] Alexutzu [Ignat]: "/kits"
+[4/6/2026 10:16:03 PM] [Info] [World] Alexutzu [Ignat]: "/kit soldier"
+[4/6/2026 10:16:19 PM] [Info] [World] Alexutzu [Ignat]: "/god"
+[4/6/2026 10:16:44 PM] [Info] Alexutzu enabled Godmode
+[4/6/2026 10:16:44 PM] [Info] [World] Ababe [Abibabi]: "/i rocket"
+[4/6/2026 10:16:49 PM] [Info] Giving Ababe item 520:1
+[4/6/2026 10:16:49 PM] [Info] [World] Ababe [Abibabi]: "/i launcher"
+[4/6/2026 10:17:03 PM] [Info] Giving Ababe item 519:1
+[4/6/2026 10:17:03 PM] [Info] [World] Ababe [Abibabi]: "/i rocket 5"
+[4/6/2026 10:17:14 PM] [Info] Giving Ababe item 520:5
+[4/6/2026 10:17:14 PM] [Info] Ababe [Abibabi] was shot in the head by Alexutzu [Ignat]!
+[4/6/2026 10:17:18 PM] [Info] [World] Ababe [Abibabi]: "/tp alex"
+[4/6/2026 10:17:20 PM] [Info] Ababe teleported to Alexutzu
+[4/6/2026 10:17:20 PM] [Info] Ababe [Abibabi] was shot in the head by Alexutzu [Ignat]!
+[4/6/2026 10:17:28 PM] [Info] [World] Ababe [Abibabi]: "/god"
+[4/6/2026 10:17:28 PM] [Info] Ababe enabled Godmode
+[4/6/2026 10:17:29 PM] [Info] [World] Ababe [Abibabi]: "/tp alex"
+[4/6/2026 10:17:39 PM] [Info] Ababe teleported to Alexutzu
+[4/6/2026 10:17:39 PM] [Info] [World] Ababe [Abibabi]: "/i launcher"
+[4/6/2026 10:17:48 PM] [Info] Giving Ababe item 519:1
+[4/6/2026 10:17:48 PM] [Info] [World] Ababe [Abibabi]: "/infiniteammo"
+[4/6/2026 10:17:55 PM] [Info] [World] Ababe [Abibabi]: "/unlimitedammo"
+[4/6/2026 10:18:02 PM] [Info] [World] Ababe [Abibabi]: "/i rocket 5"
+[4/6/2026 10:18:14 PM] [Info] Giving Ababe item 520:5
+[4/6/2026 10:18:14 PM] [Info] [World] Alexutzu [Ignat]: "/unlimited ammo"
+[4/6/2026 10:18:29 PM] [Info] [World] Alexutzu [Ignat]: "/v 130"
+[4/6/2026 10:18:32 PM] [Info] Giving Alexutzu vehicle 130
+[4/6/2026 10:18:32 PM] [Info] [World] Alexutzu [Ignat]: "/v 11"
+[4/6/2026 10:18:35 PM] [Info] Giving Alexutzu vehicle 11
+[4/6/2026 10:18:35 PM] [Info] [World] Alexutzu [Ignat]: "/v 1"
+[4/6/2026 10:18:40 PM] [Info] Giving Alexutzu vehicle 1
+[4/6/2026 10:18:40 PM] [Info] [World] Alexutzu [Ignat]: "/v anushka"
+[4/6/2026 10:18:49 PM] [Info] [World] Alexutzu [Ignat]: "/v anuskha"
+[4/6/2026 10:18:55 PM] [Info] [World] Alexutzu [Ignat]: "/v hydra"
+[4/6/2026 10:18:57 PM] [Info] [World] Ababe [Abibabi]: "/ammo"
+[4/6/2026 10:19:37 PM] [Info] [World] Alexutzu [Ignat]: "/maxskills"
+[4/6/2026 10:20:31 PM] [Info] [World] Ababe [Abibabi]: "/unlimited ammo"
+[4/6/2026 10:20:36 PM] [Info] [World] Ababe [Abibabi]: "/unlimitedammo"
+[4/6/2026 10:20:38 PM] [Info] [World] Ababe [Abibabi]: "/infammo"
+[4/6/2026 10:20:50 PM] [Info] [World] Ababe [Abibabi]: "/ammo"
+[4/6/2026 10:21:05 PM] [Info] [World] Alexutzu [Ignat]: "/v jet"
+[4/6/2026 10:21:20 PM] [Info] Giving Alexutzu vehicle 140
+[4/6/2026 10:21:20 PM] [Info] [World] Ababe [Abibabi]: "/i rocket 5"
+[4/6/2026 10:21:58 PM] [Info] Giving Ababe item 520:5
+[4/6/2026 10:21:58 PM] [Info] [World] Alexutzu [Ignat]: "/v jet"
+[4/6/2026 10:22:07 PM] [Info] Giving Alexutzu vehicle 140
+[4/6/2026 10:22:07 PM] [Info] [World] Ababe [Abibabi]: "/i rocket 5"
+[4/6/2026 10:22:09 PM] [Info] Giving Ababe item 520:5
+[4/6/2026 10:22:09 PM] [Info] [World] Ababe [Abibabi]: "/i rocket 5"
+[4/6/2026 10:22:10 PM] [Info] Giving Ababe item 520:5
+[4/6/2026 10:22:10 PM] [Info] Alexutzu moved x:-317.2794 y:100.1376(+16.30479) z:738.4119 in the last second (51.42992)
+[4/6/2026 10:22:17 PM] [Info] Alexutzu moved x:-95.52079 y:142.192(+15.81989) z:592.7085 in the last second (103.5684)
+[4/6/2026 10:22:54 PM] [Info] [World] Ababe [Abibabi]: "/i bounce"
+[4/6/2026 10:22:56 PM] [Info] Giving Ababe item 1691:1
+[4/6/2026 10:22:56 PM] [Info] Alexutzu moved x:-352.6099 y:108.8884(+15.31079) z:-39.24669 in the last second (0.6633148)
+[4/6/2026 10:22:57 PM] [Info] Alexutzu moved x:-369.4615 y:130.5011(+21.61266) z:-41.11971 in the last second (0.5960999)
+[4/6/2026 10:22:58 PM] [Info] Alexutzu moved x:-382.0794 y:158.1082(+27.60715) z:-36.35036 in the last second (0.5722656)
+[4/6/2026 10:22:59 PM] [Info] [World] Ababe [Abibabi]: "/i 1692"
+[4/6/2026 10:22:59 PM] [Info] Giving Ababe item 1692:1
+[4/6/2026 10:22:59 PM] [Info] Alexutzu moved x:-390.07 y:188.6306(+30.52238) z:-30.16545 in the last second (0.565567)
+[4/6/2026 10:23:00 PM] [Info] Alexutzu moved x:-396.8917 y:226.207(+37.57642) z:-23.35852 in the last second (200.6063)
+[4/6/2026 10:23:01 PM] [Info] Alexutzu moved x:-402.7047 y:263.1267(+36.91966) z:-17.35635 in the last second (237.5259)
+[4/6/2026 10:23:02 PM] [Info] [World] Ababe [Abibabi]: "/i 1690"
+[4/6/2026 10:23:02 PM] [Info] Alexutzu moved x:-413.437 y:299.6857(+36.55902) z:-10.01155 in the last second (274.085)
+[4/6/2026 10:23:03 PM] [Info] Alexutzu moved x:-426.9256 y:324.6353(+24.94958) z:1.223633 in the last second (299.0345)
+[4/6/2026 10:23:04 PM] [Info] Alexutzu moved x:-442.2411 y:344.6779(+20.04263) z:20.70891 in the last second (319.0772)
+[4/6/2026 10:23:05 PM] [Info] Alexutzu moved x:-449.3836 y:361.9686(+17.29065) z:46.42804 in the last second (336.3678)
+[4/6/2026 10:23:06 PM] [Info] [World] Ababe [Abibabi]: "/i deto"
+[4/6/2026 10:23:06 PM] [Info] Giving Ababe item 1240:1
+[4/6/2026 10:23:06 PM] [Info] Alexutzu moved x:-444.0927 y:377.2727(+15.30411) z:70.69774 in the last second (351.6719)
+[4/6/2026 10:23:07 PM] [Info] Alexutzu moved x:-426.9207 y:393.2134(+15.94073) z:95.16814 in the last second (367.6127)
+[4/6/2026 10:23:08 PM] [Info] Alexutzu moved x:-401.892 y:409.4979(+16.28442) z:118.2726 in the last second (383.8971)
+[4/6/2026 10:23:09 PM] [Info] Alexutzu moved x:-374.3152 y:426.1007(+16.60287) z:137.8929 in the last second (400.5)
+[4/6/2026 10:23:10 PM] [Info] Alexutzu moved x:-342.0516 y:442.9438(+16.84305) z:149.3759 in the last second (417.343)
+[4/6/2026 10:23:22 PM] [Info] [World] Ababe [Abibabi]: "/i bounce 3"
+[4/6/2026 10:23:31 PM] [Info] Giving Ababe item 1691:3
+[4/6/2026 10:23:31 PM] [Info] Ababe moved x:-463.0235 y:75.25845(+34.77527) z:620.84 in the last second (38.86876)
+[4/6/2026 10:24:00 PM] [Info] [World] Alexutzu [Ignat]: "/v sand"
+[4/6/2026 10:24:07 PM] [Info] Giving Alexutzu vehicle 92
+[4/6/2026 10:24:07 PM] [Info] [World] Ababe [Abibabi]: "/i 1838 10"
+[4/6/2026 10:24:07 PM] [Info] Giving Ababe item 1838:10
+[4/6/2026 10:24:16 PM] [Info] Ababe moved x:-458.7212 y:88.86484(+39.04444) z:690.4344 in the last second (52.67514)
+[4/6/2026 10:24:16 PM] [Info] [World] Alexutzu [Ignat]: "/v sand"
+[4/6/2026 10:24:29 PM] [Info] Giving Alexutzu vehicle 92
+[4/6/2026 10:24:29 PM] [Info] Alexutzu moved x:-451.5296 y:77.09259(+15.25017) z:598.5751 in the last second (23.38927)
+[4/6/2026 10:24:30 PM] [Info] Alexutzu moved x:-449.2868 y:97.06848(+19.97589) z:577.6861 in the last second (42.51104)
+[4/6/2026 10:24:31 PM] [Info] Alexutzu moved x:-449.7757 y:120.4132(+23.34476) z:558.7669 in the last second (76.57596)
+[4/6/2026 10:24:31 PM] [Info] Ababe moved x:-453.2661 y:58.27112(+21.98142) z:668.0526 in the last second (22.08142)
+[4/6/2026 10:24:32 PM] [Info] Alexutzu moved x:-453.7529 y:145.0058(+24.59259) z:542.3133 in the last second (108.1288)
+[4/6/2026 10:24:32 PM] [Info] Ababe moved x:-451.4036 y:79.46864(+21.19753) z:645.9391 in the last second (43.27895)
+[4/6/2026 10:24:33 PM] [Info] Alexutzu moved x:-460.9421 y:166.5434(+21.53761) z:528.9955 in the last second (129.8289)
+[4/6/2026 10:24:34 PM] [Info] Alexutzu moved x:-473.7067 y:187.6355(+21.09201) z:516.4759 in the last second (151.4724)
+[4/6/2026 10:24:35 PM] [Info] Alexutzu moved x:-492.0381 y:204.71(+17.07451) z:507.5475 in the last second (168.5757)
+[4/6/2026 10:24:58 PM] [Info] Ababe moved x:-449.6132 y:74.97434(+19.57182) z:629.5313 in the last second (38.78465)
+[4/6/2026 10:25:09 PM] [Info] [World] Alexutzu [Ignat]: "/v sand"
+[4/6/2026 10:25:17 PM] [Info] Giving Alexutzu vehicle 92
+[4/6/2026 10:25:17 PM] [Info] Ababe moved x:-536.6019 y:74.18929(+37.89959) z:710.3865 in the last second (36.49483)
+[4/6/2026 10:25:27 PM] [Info] Ababe moved x:-506.8141 y:64.51742(+26.04613) z:674.0472 in the last second (28.32772)
+[4/6/2026 10:26:03 PM] [Info] Alexutzu moved x:-391.7489 y:101.3981(+16.1827) z:597.8344 in the last second (52.72732)
+[4/6/2026 10:26:04 PM] [Info] Alexutzu moved x:-389.1512 y:119.9934(+18.59532) z:601.0292 in the last second (72.27088)
+[4/6/2026 10:26:05 PM] [Info] Alexutzu moved x:-391.0727 y:135.8527(+15.85928) z:611.5018 in the last second (94.57584)
+[4/6/2026 10:26:26 PM] [Info] [World] Alexutzu [Ignat]: "/v an"
+[4/6/2026 10:26:30 PM] [Info] Giving Alexutzu vehicle 54
+[4/6/2026 10:26:30 PM] [Info] [World] Alexutzu [Ignat]: "/v anu"
+[4/6/2026 10:26:34 PM] [Info] [World] Alexutzu [Ignat]: "/v anh"
+[4/6/2026 10:26:37 PM] [Info] [World] Ababe [Abibabi]: "/killzombies"
+[4/6/2026 10:26:42 PM] [Info] [World] Ababe [Abibabi]: "/i 1838 10"
+[4/6/2026 10:26:43 PM] [Info] Giving Ababe item 1838:10
+[4/6/2026 10:26:43 PM] [Info] [World] Alexutzu [Ignat]: "/v anus"
+[4/6/2026 10:26:47 PM] [Info] [World] Alexutzu [Ignat]: "/v hka"
+[4/6/2026 10:26:52 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:26:52 PM] [Info] Ababe moved x:-598.4795 y:88.47529(+32.77071) z:577.5676 in the last second (34.38642)
+[4/6/2026 10:27:01 PM] [Info] Alexutzu moved x:-389.4586 y:92.548(+16.24113) z:706.3563 in the last second (55.69424)
+[4/6/2026 10:27:02 PM] [Info] Alexutzu moved x:-372.3832 y:111.765(+19.21699) z:688.9605 in the last second (70.86716)
+[4/6/2026 10:27:03 PM] [Info] Alexutzu moved x:-356.4941 y:131.1185(+19.35347) z:669.3959 in the last second (83.69987)
+[4/6/2026 10:27:04 PM] [Info] Alexutzu moved x:-343.1354 y:148.2037(+17.08525) z:649.2742 in the last second (93.34982)
+[4/6/2026 10:27:05 PM] [Info] Alexutzu moved x:-330.7696 y:164.973(+16.7693) z:625.408 in the last second (103.8025)
+[4/6/2026 10:27:36 PM] [Info] [World] Ababe [Abibabi]: "/i 1838 10"
+[4/6/2026 10:27:36 PM] [Info] Giving Ababe item 1838:10
+[4/6/2026 10:27:54 PM] [Info] Ababe moved x:-519.7342 y:79.12459(+23.60382) z:578.3332 in the last second (26.89131)
+[4/6/2026 10:28:15 PM] [Info] Ababe moved x:-420.4689 y:57.3023(+20.82788) z:778.9759 in the last second (14.66191)
+[4/6/2026 10:28:22 PM] [Info] Ababe moved x:-461.7815 y:80.98896(+29.54832) z:767.6482 in the last second (26.71795)
+[4/6/2026 10:28:29 PM] [Info] Ababe moved x:-415.7518 y:57.5699(+21.28021) z:740.117 in the last second (21.38021)
+[4/6/2026 10:28:45 PM] [Info] [World] Ababe [Abibabi]: "/i 1838 10"
+[4/6/2026 10:29:01 PM] [Info] Giving Ababe item 1838:10
+[4/6/2026 10:29:01 PM] [Info] Ababe moved x:-548.6047 y:89.48267(+24.99486) z:670.0346 in the last second (45.2638)
+[4/6/2026 10:29:08 PM] [Info] Ababe moved x:-515.3083 y:61.61877(+20.42972) z:651.7299 in the last second (25.42907)
+[4/6/2026 10:29:19 PM] [Info] Alexutzu moved x:-519.7366 y:69.30632(+29.34677) z:670.9107 in the last second (33.11662)
+[4/6/2026 10:29:29 PM] [Info] [World] Ababe [Abibabi]: "/i 1838 10"
+[4/6/2026 10:29:29 PM] [Info] Giving Ababe item 1838:10
+[4/6/2026 10:29:50 PM] [Info] Alexutzu moved x:-522.68 y:72.15209(+24.72069) z:670.3611 in the last second (35.96239)
+[4/6/2026 10:29:57 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:12 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:12 PM] [Info] [World] Ababe [Abibabi]: "/i carjac"
+[4/6/2026 10:30:37 PM] [Info] Giving Ababe item 277:1
+[4/6/2026 10:30:37 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:39 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:39 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:40 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:40 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:40 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:40 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:41 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:41 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:41 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:41 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:42 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:42 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:43 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:43 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:30:44 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:30:44 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:31:15 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:31:15 PM] [Info] [World] Ababe [Abibabi]: "/v jet"
+[4/6/2026 10:31:50 PM] [Info] Giving Ababe vehicle 140
+[4/6/2026 10:31:50 PM] [Info] [World] Alexutzu [Ignat]: "/v ann"
+[4/6/2026 10:32:03 PM] [Info] Giving Alexutzu vehicle 133
+[4/6/2026 10:32:03 PM] [Info] Alexutzu moved x:-408.8624 y:76.09209(+15.15811) z:599.5223 in the last second (28.83599)
+[4/6/2026 10:32:03 PM] [Info] Ababe moved x:-408.2117 y:78.62753(+15.64174) z:596.4132 in the last second (29.68649)
+[4/6/2026 10:32:04 PM] [Info] Alexutzu moved x:-399.304 y:91.14206(+15.04996) z:582.7686 in the last second (38.21127)
+[4/6/2026 10:32:04 PM] [Info] Ababe moved x:-397.6822 y:94.57388(+15.94635) z:577.7324 in the last second (42.32986)
+[4/6/2026 10:32:36 PM] [Info] Alexutzu moved x:-717.2644 y:83.29962(+17.15691) z:164.8603 in the last second (0.2844315)
+[4/6/2026 10:32:36 PM] [Info] Ababe moved x:-718.3376 y:85.18488(+16.40544) z:165.0833 in the last second (0.2855606)
+[4/6/2026 10:32:37 PM] [Info] Alexutzu moved x:-726.3975 y:101.6502(+18.35056) z:155.7819 in the last second (0.3091202)
+[4/6/2026 10:32:37 PM] [Info] Ababe moved x:-727.5371 y:105.4373(+20.25242) z:154.8469 in the last second (0.314621)
+[4/6/2026 10:32:38 PM] [Info] Alexutzu moved x:-730.9947 y:122.7975(+21.14728) z:143.3412 in the last second (0.3466949)
+[4/6/2026 10:32:38 PM] [Info] Ababe moved x:-731.4594 y:126.7591(+21.32175) z:141.903 in the last second (0.3534088)
+[4/6/2026 10:32:39 PM] [Info] Alexutzu moved x:-730.0109 y:142.3813(+19.58387) z:130.076 in the last second (0.3811493)
+[4/6/2026 10:32:39 PM] [Info] Ababe moved x:-729.8821 y:146.3592(+19.60017) z:128.1665 in the last second (0.3851166)
+[4/6/2026 10:32:40 PM] [Info] Alexutzu moved x:-723.3294 y:163.1861(+20.80481) z:114.9445 in the last second (110.1249)
+[4/6/2026 10:32:40 PM] [Info] Ababe moved x:-722.5231 y:167.045(+20.68578) z:112.6362 in the last second (113.9729)
+[4/6/2026 10:32:41 PM] [Info] Alexutzu moved x:-711.5242 y:183.3555(+20.16934) z:100.2306 in the last second (130.4295)
+[4/6/2026 10:32:41 PM] [Info] Ababe moved x:-711.0495 y:185.6448(+18.59984) z:99.0444 in the last second (132.704)
+[4/6/2026 10:32:42 PM] [Info] Alexutzu moved x:-696.6638 y:200.8846(+17.5291) z:88.12891 in the last second (0.5748138)
+[4/6/2026 10:32:42 PM] [Info] Ababe moved x:-694.3214 y:204.5171(+18.87227) z:86.33843 in the last second (0.6139526)
+[4/6/2026 10:32:43 PM] [Info] Alexutzu moved x:-677.3677 y:217.4178(+16.53326) z:77.54572 in the last second (0.8825989)
+[4/6/2026 10:32:43 PM] [Info] Ababe moved x:-676.0263 y:219.5251(+15.008) z:76.90257 in the last second (0.9136047)
+[4/6/2026 10:33:21 PM] [Info] [World] Ababe [Abibabi]: "/i 1838 10"
+[4/6/2026 10:33:50 PM] [Info] Giving Ababe item 1838:10
+[4/6/2026 10:33:50 PM] [Info] Ababe moved x:-888.7308 y:183.0741(+15.5267) z:596.6348 in the last second (157.4733)
+[4/6/2026 10:33:51 PM] [Info] Alexutzu moved x:-897.9371 y:198.2742(+15.99811) z:616.7186 in the last second (172.6734)
+[4/6/2026 10:33:51 PM] [Info] Ababe moved x:-898.0341 y:198.6465(+15.57243) z:618.8499 in the last second (173.0458)
+[4/6/2026 10:34:40 PM] [Info] Ababe moved x:-428.6241 y:72.08395(+30.2784) z:717.9017 in the last second (35.89426)
+[4/6/2026 10:34:43 PM] [Info] Broadcast: Alexutzu disconnected from the server.
+[4/6/2026 10:36:22 PM] [Info] Broadcast: Alexutzu a iesit de pe server! Jucatori activi: 1
+[4/6/2026 10:36:22 PM] [Info] Disconnecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 10:36:22 PM] [Info] Broadcast: Ababe disconnected from the server.
+[4/6/2026 10:36:22 PM] [Info] Broadcast: Ababe a iesit de pe server! Jucatori activi: 0
+[4/6/2026 10:36:22 PM] [Info] Disconnecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 10:40:03 PM] [Info] Connecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 10:40:21 PM] [Info] Broadcast: Ababe connected to the server.
+[4/6/2026 10:40:21 PM] [Info] Broadcast: Ababe a intrat pe server! Jucatori activi: 1
+[4/6/2026 10:40:21 PM] [Info] Saving server
+[4/6/2026 10:47:14 PM] [Info] Permissions reloaded
+[4/6/2026 10:47:18 PM] [Info] [World] Ababe [Abibabi]: "/kits"
+[4/6/2026 10:48:55 PM] [Info] Broadcast: Ababe disconnected from the server.
+[4/6/2026 10:48:55 PM] [Info] Broadcast: Ababe a iesit de pe server! Jucatori activi: 0
+[4/6/2026 10:48:55 PM] [Info] Disconnecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 10:48:56 PM] [Info] 
+[unloading] Kits

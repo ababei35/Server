@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SherbetVaultsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DatabaseSettings>
+    <DatabaseAddress>127.0.0.1</DatabaseAddress>
+    <DatabaseUsername>root</DatabaseUsername>
+    <DatabasePassword />
+    <DatabaseName>unturned</DatabaseName>
+    <DatabasePort>3306</DatabasePort>
+  </DatabaseSettings>
+  <LargestVaultIsDefault>false</LargestVaultIsDefault>
+  <DefaultVault>default</DefaultVault>
+  <VaultAliasesEnabled>false</VaultAliasesEnabled>
+  <DatabaseTablePrefix>SherbetVaults</DatabaseTablePrefix>
+  <Vaults>
+    <Vault VaultID="default" Width="5" Height="4" />
+    <Vault VaultID="vip" Width="10" Height="10" />
+  </Vaults>
+  <Restrictions>
+    <AdminsBypassRestrictions>true</AdminsBypassRestrictions>
+    <ShowMessages>true</ShowMessages>
+    <Enabled>false</Enabled>
+    <Groups>
+      <RestrictionGroup GroupID="Group1" Weight="1" Blacklist="true">
+        <TranslationKey>Restrictions_Blacklisted</TranslationKey>
+        <Selectors>
+          <ItemSelector>1</ItemSelector>
+          <ItemSelector>255-259</ItemSelector>
+          <ItemSelector>Type:Throwable</ItemSelector>
+          <ItemSelector>Table:Police*</ItemSelector>
+          <ItemSelector>Slot:Primary</ItemSelector>
+          <ItemSelector>Workshop:2136497468</ItemSelector>
+        </Selectors>
+      </RestrictionGroup>
+    </Groups>
+  </Restrictions>
+</SherbetVaultsConfig>

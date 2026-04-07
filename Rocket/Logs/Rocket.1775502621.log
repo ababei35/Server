@@ -1,0 +1,148 @@
+[4/6/2026 10:03:35 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[4/6/2026 10:03:35 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[4/6/2026 10:03:35 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[4/6/2026 10:03:35 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[4/6/2026 10:03:35 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[4/6/2026 10:03:35 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[4/6/2026 10:03:35 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[4/6/2026 10:03:35 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[4/6/2026 10:03:35 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[4/6/2026 10:03:35 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[4/6/2026 10:03:35 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[4/6/2026 10:03:35 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[4/6/2026 10:03:35 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[4/6/2026 10:03:35 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[4/6/2026 10:03:35 PM] [Info] [registered] /position (Rocket.Unturned.Commands.CommandPosition/position)
+[4/6/2026 10:03:35 PM] [Info] [registered] /pos (Rocket.Unturned.Commands.CommandPosition/pos)
+[4/6/2026 10:03:35 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[4/6/2026 10:03:35 PM] [Info] [registered] /savelogs (Rocket.Unturned.Commands.CommandSaveLogs/savelogs)
+[4/6/2026 10:03:35 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[4/6/2026 10:03:35 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[4/6/2026 10:03:35 PM] [Info] [registered] /tpwp (Rocket.Unturned.Commands.CommandTpwp/tpwp)
+[4/6/2026 10:03:35 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[4/6/2026 10:03:35 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[4/6/2026 10:03:35 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\BouncyCastle.Crypto.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\Google.Protobuf.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Compression.LZ4.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Compression.LZ4.Streams.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Hash.xxHash.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: MySql.Data, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\MySql.Data.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: RocketExtensions, Version=2.1.2.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\RocketExtensions.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: ShimmyMySherbet.MySQL.EF, Version=1.8.8.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\ShimmyMySherbet.MySQL.EF.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\Ubiety.Dns.Core.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: UniTask, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\UniTask.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: UniTask.Linq, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\UniTask.Linq.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\ZstdNet.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: JoinLeaveMessages, Version=1.3.1.2, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\JoinLeaveMessages.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: Kits, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: PlayerLogger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\PlayerLogger.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: SherbetVaults, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\SherbetVaults.dll
+[4/6/2026 10:03:35 PM] [Info] Rocket dependency registered: Teleportation, Version=1.8.3.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Teleportation.dll
+[4/6/2026 10:03:35 PM] [Info] Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\JoinLeaveMessages.dll
+[4/6/2026 10:03:35 PM] [Info] Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 10:03:35 PM] [Info] Loading PlayerLogger from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\PlayerLogger.dll
+[4/6/2026 10:03:37 PM] [Info] Loading SherbetVaults from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\SherbetVaults.dll
+[4/6/2026 10:03:37 PM] [Info] Loading Teleportation from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Teleportation.dll
+[4/6/2026 10:03:37 PM] [Info] 
+[loading] JoinLeaveMessages
+[4/6/2026 10:03:37 PM] [Info] 
+[loading] Kits
+[4/6/2026 10:03:37 PM] [Info] [registered] /createkit (RestoreMonarchy.Kits.Commands.CreateKitCommand/createkit)
+[4/6/2026 10:03:37 PM] [Info] [registered] /ckit (RestoreMonarchy.Kits.Commands.CreateKitCommand/ckit)
+[4/6/2026 10:03:37 PM] [Info] [registered] /deletekit (RestoreMonarchy.Kits.Commands.DeleteKitCommand/deletekit)
+[4/6/2026 10:03:37 PM] [Info] [registered] /dkit (RestoreMonarchy.Kits.Commands.DeleteKitCommand/dkit)
+[4/6/2026 10:03:37 PM] [Info] [registered] /kit (RestoreMonarchy.Kits.Commands.KitCommand/kit)
+[4/6/2026 10:03:37 PM] [Info] [registered] /kits (RestoreMonarchy.Kits.Commands.KitsCommand/kits)
+[4/6/2026 10:03:37 PM] [Info] Kits >> Kits 1.0.7 has been loaded!
+[4/6/2026 10:03:37 PM] [Info] 
+[loading] PlayerLogger
+[4/6/2026 10:03:37 PM] [Info] PlayerLogger >> Pluginul PlayerLogger a fost incarcat!
+[4/6/2026 10:03:37 PM] [Info] SherbetVaults >> Loading Sherbet Vaults v1.2.0.0...
+[4/6/2026 10:03:37 PM] [Info] SherbetVaults >> Loading restriction settings...
+[4/6/2026 10:03:37 PM] [Info] SherbetVaults >> Loaded 1 Restriction Groups with no errors.
+[4/6/2026 10:03:37 PM] [Info] 
+[loading] SherbetVaults
+[4/6/2026 10:03:37 PM] [Info] [registered] /trash (SherbetVaults.Commands.TrashCommand/Trash)
+[4/6/2026 10:03:37 PM] [Info] [registered] /vaultalias (SherbetVaults.Commands.VaultAliasCommand/VaultAlias)
+[4/6/2026 10:03:37 PM] [Info] [registered] /vault (SherbetVaults.Commands.VaultCommand/Vault)
+[4/6/2026 10:03:37 PM] [Info] [registered] /vaults (SherbetVaults.Commands.VaultsCommand/Vaults)
+[4/6/2026 10:03:37 PM] [Info] [registered] /spyvault (SherbetVaults.Commands.SpyVaultCommand/SpyVault)
+[4/6/2026 10:03:37 PM] [Info] [registered] /wipevault (SherbetVaults.Commands.WipeVaultCommand/WipeVault)
+[4/6/2026 10:03:37 PM] [Info] SherbetVaults >> Sherbet Vaults v1.2.0.0 by ShimmyMySherbet#5694 Loaded!
+[4/6/2026 10:03:37 PM] [Info] 
+[loading] Teleportation
+[4/6/2026 10:03:37 PM] [Info] [registered] /tpa (RestoreMonarchy.Teleportation.Commands.TPACommand/tpa)
+[4/6/2026 10:03:37 PM] [Info] Teleportation >> Teleportation 1.8.3.0 has been loaded!
+[4/6/2026 10:03:37 PM] [Info] Teleportation >> Check out more Unturned plugins at restoremonarchy.com
+[4/6/2026 10:03:37 PM] [Info] This server will automatically save every 1800 seconds
+[4/6/2026 10:03:37 PM] [Info] Steam servers ready!
+[4/6/2026 10:03:37 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/Server/Workshop/Steam
+[4/6/2026 10:03:37 PM] [Info] 0 workshop item(s) requested
+[4/6/2026 10:03:37 PM] [Error] Rocket could not find dependency: System.Configuration.Install
+[4/6/2026 10:03:37 PM] [Error] Rocket could not find dependency: System.Configuration.Install
+[4/6/2026 10:03:37 PM] [Error] Rocket could not find dependency: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4/6/2026 10:03:37 PM] [Error] Rocket could not find dependency: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4/6/2026 10:03:38 PM] [Info] Loading level: 5%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 10%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 15%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 21%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 26%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 31%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 36%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 42%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 47%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 52%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 57%
+[4/6/2026 10:03:38 PM] [Info] Loading level: 63%
+[4/6/2026 10:03:40 PM] [Info] Loading level: 68%
+[4/6/2026 10:03:40 PM] [Info] Loading level: 73%
+[4/6/2026 10:03:40 PM] [Info] Loading level: 89%
+[4/6/2026 10:03:40 PM] [Info] Loading level: 94%
+[4/6/2026 10:03:40 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 10:03:40 PM] [Info] Server Code: 85568392936169965
+[4/6/2026 10:03:40 PM] [Info] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[4/6/2026 10:03:40 PM] [Info] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[4/6/2026 10:03:40 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 10:03:40 PM] [Info] Loading level: 100%
+[4/6/2026 10:03:54 PM] [Info] Connecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 10:03:59 PM] [Error] Rocket could not find dependency: Assembly-CSharp-firstpass
+[4/6/2026 10:03:59 PM] [Error] Rocket could not find dependency: Assembly-CSharp-firstpass
+[4/6/2026 10:03:59 PM] [Info] Broadcast: Ababe connected to the server.
+[4/6/2026 10:03:59 PM] [Info] Broadcast: Ababe a intrat pe server! Jucatori activi: 1
+[4/6/2026 10:03:59 PM] [Info] Connecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 10:04:01 PM] [Info] Broadcast: Alexutzu connected to the server.
+[4/6/2026 10:04:01 PM] [Info] Broadcast: Alexutzu a intrat pe server! Jucatori activi: 2
+[4/6/2026 10:04:01 PM] [Info] [World] Ababe [Abibabi]: "/kits"
+[4/6/2026 10:04:02 PM] [Info] [World] Ababe [Abibabi]: "/tpa"
+[4/6/2026 10:04:02 PM] [Info] [World] Alexutzu [Ignat]: "/kits"
+[4/6/2026 10:04:05 PM] [Info] [World] Ababe [Abibabi]: "/vault"
+[4/6/2026 10:04:31 PM] [Info] [World] Alexutzu [Ignat]: "/kits"
+[4/6/2026 10:04:40 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 10:04:44 PM] [Info] [World] Alexutzu [Ignat]: "/tpa"
+[4/6/2026 10:04:49 PM] [Info] [World] Alexutzu [Ignat]: "/tpa ababe"
+[4/6/2026 10:04:53 PM] [Info] [World] Ababe [Abibabi]: "/tpa a"
+[4/6/2026 10:05:04 PM] [Info] [World] Alexutzu [Ignat]: "/tpa ababe"
+[4/6/2026 10:05:09 PM] [Info] [World] Ababe [Abibabi]: "/tpa alex"
+[4/6/2026 10:05:12 PM] [Info] [World] Alexutzu [Ignat]: "/tpa a"
+[4/6/2026 10:05:25 PM] [Info] [World] Ababe [Abibabi]: "/god"
+[4/6/2026 10:05:25 PM] [Info] Ababe enabled Godmode
+[4/6/2026 10:05:32 PM] [Info] [World] Ababe [Abibabi]: "/god alex"
+[4/6/2026 10:05:32 PM] [Info] Ababe disabled Godmode
+[4/6/2026 10:05:36 PM] [Info] [World] Ababe [Abibabi]: "/god"
+[4/6/2026 10:05:36 PM] [Info] Ababe enabled Godmode
+[4/6/2026 10:06:03 PM] [Info] Alexutzu [Ignat] was chopped in the head by Ababe [Abibabi]!
+[4/6/2026 10:06:09 PM] [Info] [World] Ababe [Abibabi]: "/tp mil"
+[4/6/2026 10:08:39 PM] [Info] Ababe teleported to Summerside Military Base
+[4/6/2026 10:08:39 PM] [Info] Permissions reloaded
+[4/6/2026 10:08:56 PM] [Info] [World] Ababe [Abibabi]: "/p alex"
+[4/6/2026 10:09:56 PM] [Info] Permissions reloaded
+[4/6/2026 10:09:59 PM] [Info] [World] Ababe [Abibabi]: "/p alex"
+[4/6/2026 10:10:03 PM] [Info] Broadcast: Ababe disconnected from the server.
+[4/6/2026 10:10:05 PM] [Info] Broadcast: Ababe a iesit de pe server! Jucatori activi: 1
+[4/6/2026 10:10:05 PM] [Info] Disconnecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 10:10:05 PM] [Info] Broadcast: Alexutzu disconnected from the server.
+[4/6/2026 10:10:05 PM] [Info] Broadcast: Alexutzu a iesit de pe server! Jucatori activi: 0
+[4/6/2026 10:10:05 PM] [Info] Disconnecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 10:10:05 PM] [Info] 
+[unloading] Kits

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="connect_message" Value="{0} connected to the server." />
+  <Translation Id="disconnect_message" Value="{0} disconnected from the server." />
+  <Translation Id="connect_message_country" Value="{0} has connected from {1}." />
+</Translations>

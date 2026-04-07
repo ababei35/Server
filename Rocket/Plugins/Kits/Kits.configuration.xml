@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KitsConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Kits>
+    <Kit>
+      <Name>Survival</Name>
+      <XP>0</XP>
+      <Money xsi:nil="true" />
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="245" amount="1" />
+        <Item id="81" amount="2" />
+        <Item id="16" amount="1" />
+      </Items>
+      <Cooldown>10</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Brute Force</Name>
+      <XP>0</XP>
+      <Money>30</Money>
+      <Vehicle>57</Vehicle>
+      <Items>
+        <Item id="112" amount="1" />
+        <Item id="113" amount="3" />
+        <Item id="254" amount="3" />
+      </Items>
+      <Cooldown>10</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Watcher</Name>
+      <XP>200</XP>
+      <Money>-20</Money>
+      <Vehicle xsi:nil="true" />
+      <Items>
+        <Item id="109" amount="1" />
+        <Item id="111" amount="3" />
+        <Item id="236" amount="1" />
+      </Items>
+      <Cooldown>10</Cooldown>
+    </Kit>
+  </Kits>
+  <GlobalCooldown>10</GlobalCooldown>
+</KitsConfiguration>

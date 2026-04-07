@@ -1,0 +1,95 @@
+[4/6/2026 7:59:49 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[4/6/2026 7:59:49 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[4/6/2026 7:59:49 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[4/6/2026 7:59:49 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[4/6/2026 7:59:49 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[4/6/2026 7:59:49 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[4/6/2026 7:59:49 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[4/6/2026 7:59:49 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[4/6/2026 7:59:49 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[4/6/2026 7:59:49 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[4/6/2026 7:59:49 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[4/6/2026 7:59:49 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[4/6/2026 7:59:49 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[4/6/2026 7:59:49 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[4/6/2026 7:59:49 PM] [Info] [registered] /position (Rocket.Unturned.Commands.CommandPosition/position)
+[4/6/2026 7:59:49 PM] [Info] [registered] /pos (Rocket.Unturned.Commands.CommandPosition/pos)
+[4/6/2026 7:59:49 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[4/6/2026 7:59:49 PM] [Info] [registered] /savelogs (Rocket.Unturned.Commands.CommandSaveLogs/savelogs)
+[4/6/2026 7:59:49 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[4/6/2026 7:59:49 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[4/6/2026 7:59:49 PM] [Info] [registered] /tpwp (Rocket.Unturned.Commands.CommandTpwp/tpwp)
+[4/6/2026 7:59:49 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[4/6/2026 7:59:49 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[4/6/2026 7:59:49 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[4/6/2026 7:59:49 PM] [Info] Rocket dependency registered: Kits, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 7:59:49 PM] [Info] Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 7:59:50 PM] [Info] 
+[loading] Kits
+[4/6/2026 7:59:50 PM] [Info] [registered] /createkit (RestoreMonarchy.Kits.Commands.CreateKitCommand/createkit)
+[4/6/2026 7:59:50 PM] [Info] [registered] /ckit (RestoreMonarchy.Kits.Commands.CreateKitCommand/ckit)
+[4/6/2026 7:59:50 PM] [Info] [registered] /deletekit (RestoreMonarchy.Kits.Commands.DeleteKitCommand/deletekit)
+[4/6/2026 7:59:50 PM] [Info] [registered] /dkit (RestoreMonarchy.Kits.Commands.DeleteKitCommand/dkit)
+[4/6/2026 7:59:50 PM] [Info] [registered] /kit (RestoreMonarchy.Kits.Commands.KitCommand/kit)
+[4/6/2026 7:59:50 PM] [Info] [registered] /kits (RestoreMonarchy.Kits.Commands.KitsCommand/kits)
+[4/6/2026 7:59:50 PM] [Info] Kits >> Kits 1.0.7 has been loaded!
+[4/6/2026 7:59:50 PM] [Info] This server will automatically save every 1800 seconds
+[4/6/2026 7:59:50 PM] [Info] Steam servers ready!
+[4/6/2026 7:59:50 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/Server/Workshop/Steam
+[4/6/2026 7:59:50 PM] [Info] 0 workshop item(s) requested
+[4/6/2026 7:59:50 PM] [Info] Loading level: 5%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 10%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 15%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 21%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 26%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 31%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 36%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 42%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 47%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 52%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 57%
+[4/6/2026 7:59:51 PM] [Info] Loading level: 63%
+[4/6/2026 7:59:53 PM] [Info] Loading level: 68%
+[4/6/2026 7:59:53 PM] [Info] Loading level: 73%
+[4/6/2026 7:59:53 PM] [Info] Loading level: 89%
+[4/6/2026 7:59:53 PM] [Info] Loading level: 94%
+[4/6/2026 7:59:53 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 7:59:53 PM] [Info] Server Code: 90284014803054613
+[4/6/2026 7:59:53 PM] [Info] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[4/6/2026 7:59:53 PM] [Info] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[4/6/2026 7:59:53 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 7:59:53 PM] [Info] Loading level: 100%
+[4/6/2026 8:00:13 PM] [Info] Connecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 8:00:16 PM] [Info] [World] Ababe [Abibabi]: "/kits"
+[4/6/2026 8:00:19 PM] [Info] [World] Ababe [Abibabi]: "/kit soldier"
+[4/6/2026 8:00:57 PM] [Info] Disconnecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 8:04:11 PM] [Info] Connecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 8:04:15 PM] [Info] [World] Ababe [Abibabi]: "/day"
+[4/6/2026 8:04:17 PM] [Info] Successfully set time to day!
+[4/6/2026 8:04:17 PM] [Info] [World] Ababe [Abibabi]: "/god"
+[4/6/2026 8:04:24 PM] [Info] Ababe enabled Godmode
+[4/6/2026 8:04:24 PM] [Info] [World] Ababe [Abibabi]: "/exp 1"
+[4/6/2026 8:04:27 PM] [Info] [World] Ababe [Abibabi]: "/experince 100"
+[4/6/2026 8:04:35 PM] [Info] [World] Ababe [Abibabi]: "/give ababe"
+[4/6/2026 8:04:40 PM] [Error] An error occured while executing give [ababe]: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at SDG.Unturned.CommandGive.execute (Steamworks.CSteamID executorID, System.String parameter) [0x000f3] in <7038037bcef24e11a6e87ccfba4332da>:0 
+  at SDG.Unturned.Command.check (Steamworks.CSteamID executorID, System.String method, System.String parameter) [0x00018] in <7038037bcef24e11a6e87ccfba4332da>:0 
+  at Rocket.Unturned.Commands.UnturnedCommands+UnturnedVanillaCommand.Execute (Rocket.API.IRocketPlayer caller, System.String[] command) [0x0004c] in <89eae61d34344ab1af008bb00f8d360c>:0 
+  at Rocket.Core.Commands.RocketCommandManager+RegisteredRocketCommand.Execute (Rocket.API.IRocketPlayer caller, System.String[] command) [0x00000] in <6f83a2704e534a88a3e7b6bf0d77e94c>:0 
+  at Rocket.Core.Commands.RocketCommandManager.Execute (Rocket.API.IRocketPlayer player, System.String command) [0x00176] in <6f83a2704e534a88a3e7b6bf0d77e94c>:0 
+[4/6/2026 8:04:40 PM] [Info] [World] Ababe [Abibabi]: "/give ababe experience"
+[4/6/2026 8:04:44 PM] [Info] [World] Ababe [Abibabi]: "/give ababe experience 100"
+[4/6/2026 8:04:48 PM] [Info] [World] Ababe [Abibabi]: "/give ababe experience 100"
+[4/6/2026 8:05:30 PM] [Info] [World] Ababe [Abibabi]: "/tp"
+[4/6/2026 8:05:33 PM] [Info] [World] Ababe [Abibabi]: "/tphere"
+[4/6/2026 8:06:44 PM] [Info] [World] Ababe [Abibabi]: "/i plate"
+[4/6/2026 8:06:55 PM] [Info] Giving Ababe item 1928:1
+[4/6/2026 8:06:55 PM] [Info] [World] Ababe [Abibabi]: "/i sheet"
+[4/6/2026 8:07:14 PM] [Info] Giving Ababe item 68:1
+[4/6/2026 8:07:14 PM] [Info] [World] Ababe [Abibabi]: "/i 1092"
+[4/6/2026 8:07:14 PM] [Info] Giving Ababe item 1092:1
+[4/6/2026 8:07:29 PM] [Info] [World] Ababe [Abibabi]: "/v jet"
+[4/6/2026 8:11:41 PM] [Info] Giving Ababe vehicle 140
+[4/6/2026 8:11:41 PM] [Info] Disconnecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 8:11:42 PM] [Info] 
+[unloading] Kits

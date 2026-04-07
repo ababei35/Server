@@ -1,0 +1,198 @@
+[4/6/2026 10:49:37 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[4/6/2026 10:49:37 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[4/6/2026 10:49:37 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[4/6/2026 10:49:37 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[4/6/2026 10:49:37 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[4/6/2026 10:49:37 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[4/6/2026 10:49:37 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[4/6/2026 10:49:37 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[4/6/2026 10:49:37 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[4/6/2026 10:49:37 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[4/6/2026 10:49:37 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[4/6/2026 10:49:37 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[4/6/2026 10:49:37 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[4/6/2026 10:49:37 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[4/6/2026 10:49:37 PM] [Info] [registered] /position (Rocket.Unturned.Commands.CommandPosition/position)
+[4/6/2026 10:49:37 PM] [Info] [registered] /pos (Rocket.Unturned.Commands.CommandPosition/pos)
+[4/6/2026 10:49:37 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[4/6/2026 10:49:37 PM] [Info] [registered] /savelogs (Rocket.Unturned.Commands.CommandSaveLogs/savelogs)
+[4/6/2026 10:49:37 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[4/6/2026 10:49:37 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[4/6/2026 10:49:37 PM] [Info] [registered] /tpwp (Rocket.Unturned.Commands.CommandTpwp/tpwp)
+[4/6/2026 10:49:37 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[4/6/2026 10:49:37 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[4/6/2026 10:49:37 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\BouncyCastle.Crypto.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\Google.Protobuf.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Compression.LZ4.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Compression.LZ4.Streams.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3 at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\K4os.Hash.xxHash.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: MySql.Data, Version=8.0.29.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\MySql.Data.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: RocketExtensions, Version=2.1.2.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\RocketExtensions.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: ShimmyMySherbet.MySQL.EF, Version=1.8.8.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\ShimmyMySherbet.MySQL.EF.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\Ubiety.Dns.Core.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: UniTask, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\UniTask.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: UniTask.Linq, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\UniTask.Linq.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Libraries\ZstdNet.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: JoinLeaveMessages, Version=1.3.1.2, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\JoinLeaveMessages.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: Kits, Version=1.3.1.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: PlayerLogger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\PlayerLogger.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: SherbetVaults, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\SherbetVaults.dll
+[4/6/2026 10:49:37 PM] [Info] Rocket dependency registered: Teleportation, Version=1.8.3.0, Culture=neutral, PublicKeyToken=null at C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Teleportation.dll
+[4/6/2026 10:49:37 PM] [Info] Loading JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\JoinLeaveMessages.dll
+[4/6/2026 10:49:37 PM] [Info] Loading Kits from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Kits.dll
+[4/6/2026 10:49:37 PM] [Info] Loading PlayerLogger from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\PlayerLogger.dll
+[4/6/2026 10:49:38 PM] [Info] Loading SherbetVaults from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\SherbetVaults.dll
+[4/6/2026 10:49:38 PM] [Info] Loading Teleportation from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\Server\Rocket\Plugins\Teleportation.dll
+[4/6/2026 10:49:38 PM] [Info] 
+[loading] JoinLeaveMessages
+[4/6/2026 10:49:38 PM] [Info] 
+[loading] Kits
+[4/6/2026 10:49:38 PM] [Info] Other mapping to: RestoreMonarchy.Kits.Commands.KitsCommand/kits / fr34kyn01535.Kits.CommandKits/kits
+[4/6/2026 10:49:38 PM] [Info] [registered] /kits (fr34kyn01535.Kits.CommandKits/kits)
+[4/6/2026 10:49:38 PM] [Info] Other mapping to: RestoreMonarchy.Kits.Commands.KitCommand/kit / fr34kyn01535.Kits.CommandKit/kit
+[4/6/2026 10:49:38 PM] [Info] [registered] /kit (fr34kyn01535.Kits.CommandKit/kit)
+[4/6/2026 10:49:38 PM] [Info] Kits >> Optional dependency Uconomy is not present.
+[4/6/2026 10:49:38 PM] [Info] 
+[loading] PlayerLogger
+[4/6/2026 10:49:38 PM] [Info] PlayerLogger >> Pluginul PlayerLogger a fost incarcat!
+[4/6/2026 10:49:38 PM] [Info] SherbetVaults >> Loading Sherbet Vaults v1.2.0.0...
+[4/6/2026 10:49:38 PM] [Info] SherbetVaults >> Loading restriction settings...
+[4/6/2026 10:49:38 PM] [Info] SherbetVaults >> Loaded 1 Restriction Groups with no errors.
+[4/6/2026 10:49:38 PM] [Info] 
+[loading] SherbetVaults
+[4/6/2026 10:49:38 PM] [Info] [registered] /trash (SherbetVaults.Commands.TrashCommand/Trash)
+[4/6/2026 10:49:38 PM] [Info] [registered] /vaultalias (SherbetVaults.Commands.VaultAliasCommand/VaultAlias)
+[4/6/2026 10:49:38 PM] [Info] [registered] /vault (SherbetVaults.Commands.VaultCommand/Vault)
+[4/6/2026 10:49:38 PM] [Info] [registered] /vaults (SherbetVaults.Commands.VaultsCommand/Vaults)
+[4/6/2026 10:49:38 PM] [Info] [registered] /spyvault (SherbetVaults.Commands.SpyVaultCommand/SpyVault)
+[4/6/2026 10:49:38 PM] [Info] [registered] /wipevault (SherbetVaults.Commands.WipeVaultCommand/WipeVault)
+[4/6/2026 10:49:38 PM] [Info] SherbetVaults >> Sherbet Vaults v1.2.0.0 by ShimmyMySherbet#5694 Loaded!
+[4/6/2026 10:49:38 PM] [Info] 
+[loading] Teleportation
+[4/6/2026 10:49:38 PM] [Info] [registered] /tpa (RestoreMonarchy.Teleportation.Commands.TPACommand/tpa)
+[4/6/2026 10:49:38 PM] [Info] Teleportation >> Teleportation 1.8.3.0 has been loaded!
+[4/6/2026 10:49:38 PM] [Info] Teleportation >> Check out more Unturned plugins at restoremonarchy.com
+[4/6/2026 10:49:38 PM] [Info] This server will automatically save every 1800 seconds
+[4/6/2026 10:49:38 PM] [Info] Steam servers ready!
+[4/6/2026 10:49:38 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/Server/Workshop/Steam
+[4/6/2026 10:49:38 PM] [Info] 0 workshop item(s) requested
+[4/6/2026 10:49:38 PM] [Error] Rocket could not find dependency: System.Configuration.Install
+[4/6/2026 10:49:38 PM] [Error] Rocket could not find dependency: System.Configuration.Install
+[4/6/2026 10:49:38 PM] [Error] Rocket could not find dependency: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4/6/2026 10:49:38 PM] [Error] Rocket could not find dependency: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4/6/2026 10:49:39 PM] [Info] Loading level: 5%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 10%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 15%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 21%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 26%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 31%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 36%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 42%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 47%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 52%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 57%
+[4/6/2026 10:49:39 PM] [Info] Loading level: 63%
+[4/6/2026 10:49:41 PM] [Info] Loading level: 68%
+[4/6/2026 10:49:41 PM] [Info] Loading level: 73%
+[4/6/2026 10:49:41 PM] [Info] Loading level: 89%
+[4/6/2026 10:49:41 PM] [Info] Loading level: 94%
+[4/6/2026 10:49:41 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 10:49:41 PM] [Info] Server Code: 85568392936169965
+[4/6/2026 10:49:41 PM] [Info] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[4/6/2026 10:49:41 PM] [Info] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[4/6/2026 10:49:41 PM] [Info] //////////////////////////////////////////////////////
+[4/6/2026 10:49:41 PM] [Info] Loading level: 100%
+[4/6/2026 10:50:33 PM] [Info] Connecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 10:50:35 PM] [Error] Rocket could not find dependency: Assembly-CSharp-firstpass
+[4/6/2026 10:50:35 PM] [Error] Rocket could not find dependency: Assembly-CSharp-firstpass
+[4/6/2026 10:50:35 PM] [Info] Broadcast: Ababe connected to the server.
+[4/6/2026 10:50:35 PM] [Info] Broadcast: Ababe a intrat pe server! Jucatori activi: 1
+[4/6/2026 10:50:35 PM] [Info] [World] Ababe [Abibabi]: "/kits"
+[4/6/2026 10:50:45 PM] [Info] [World] Ababe [Abibabi]: "/kit survival"
+[4/6/2026 10:50:52 PM] [Info] [World] Ababe [Abibabi]: "/kit brute force"
+[4/6/2026 10:50:55 PM] [Info] [World] Ababe [Abibabi]: "/kit brute"
+[4/6/2026 10:50:59 PM] [Info] [World] Ababe [Abibabi]: "/kit wathcer"
+[4/6/2026 10:51:03 PM] [Info] [World] Ababe [Abibabi]: "/kit watcher"
+[4/6/2026 10:51:48 PM] [Info] Connecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 10:51:55 PM] [Info] Broadcast: Alexutzu connected to the server.
+[4/6/2026 10:51:55 PM] [Info] Broadcast: Alexutzu a intrat pe server! Jucatori activi: 2
+[4/6/2026 10:51:55 PM] [Info] [World] Alexutzu [Ignat]: "/kits"
+[4/6/2026 10:52:15 PM] [Info] [World] Alexutzu [Ignat]: "/god"
+[4/6/2026 10:53:36 PM] [Info] Permissions reloaded
+[4/6/2026 10:53:39 PM] [Info] [World] Ababe [Abibabi]: "/kits"
+[4/6/2026 10:54:04 PM] [Info] [World] Alexutzu [Ignat]: "/kits"
+[4/6/2026 10:54:05 PM] [Info] [World] Ababe [Abibabi]: "/ammo"
+[4/6/2026 10:54:08 PM] [Info] [World] Alexutzu [Ignat]: "/kit sur"
+[4/6/2026 10:54:12 PM] [Info] [World] Alexutzu [Ignat]: "/kit survival"
+[4/6/2026 10:54:52 PM] [Info] [World] Ababe [Abibabi]: "/god"
+[4/6/2026 10:54:55 PM] [Info] Ababe enabled Godmode
+[4/6/2026 10:54:55 PM] [Info] [World] Ababe [Abibabi]: "/day"
+[4/6/2026 10:55:01 PM] [Info] Successfully set time to day!
+[4/6/2026 10:55:01 PM] [Info] Ababe moved x:-447.496 y:60.36266(+24.07296) z:715.8547 in the last second (0.7184334)
+[4/6/2026 10:55:02 PM] [Info] Ababe moved x:-442.8802 y:77.48259(+17.11993) z:712.587 in the last second (41.29289)
+[4/6/2026 10:55:06 PM] [Info] Alexutzu [Ignat] was mauled by a zombie!
+[4/6/2026 10:55:11 PM] [Info] [World] Alexutzu [Ignat]: "/tpa military"
+[4/6/2026 10:55:14 PM] [Info] [World] Alexutzu [Ignat]: "/tp mili"
+[4/6/2026 10:55:18 PM] [Info] [World] Alexutzu [Ignat]: "/tpa aba"
+[4/6/2026 10:55:24 PM] [Info] [World] Ababe [Abibabi]: "/tpa a"
+[4/6/2026 10:55:28 PM] [Info] [World] Alexutzu [Ignat]: "/sethome"
+[4/6/2026 10:55:30 PM] [Info] [World] Alexutzu [Ignat]: "/home"
+[4/6/2026 10:55:37 PM] [Info] [World] Ababe [Abibabi]: "/home"
+[4/6/2026 10:55:47 PM] [Info] [World] Ababe [Abibabi]: "/i bed"
+[4/6/2026 10:55:50 PM] [Info] Giving Ababe item 386:1
+[4/6/2026 10:55:50 PM] [Info] [World] Ababe [Abibabi]: "/i roll"
+[4/6/2026 10:56:02 PM] [Info] Giving Ababe item 293:1
+[4/6/2026 10:56:02 PM] [Info] Alexutzu moved x:-312.4405 y:119.0574(+17.91026) z:545.7211 in the last second (65.73662)
+[4/6/2026 10:56:03 PM] [Info] [World] Ababe [Abibabi]: "/home"
+[4/6/2026 10:56:03 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 10:56:04 PM] [Info] Alexutzu moved x:-356.7371 y:151.3488(+17.31902) z:550.4911 in the last second (99.83586)
+[4/6/2026 10:56:05 PM] [Info] Alexutzu moved x:-379.9274 y:168.899(+17.55017) z:561.2822 in the last second (115.3915)
+[4/6/2026 10:56:28 PM] [Info] Alexutzu [Ignat] was blown up by Alexutzu [Ignat] with an explosive bullet!
+[4/6/2026 10:56:35 PM] [Info] Permissions reloaded
+[4/6/2026 10:56:38 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 10:56:43 PM] [Info] [World] Ababe [Abibabi]: "/vault"
+[4/6/2026 10:56:44 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 10:56:46 PM] [Info] [World] Ababe [Abibabi]: "/vaults"
+[4/6/2026 10:56:49 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 10:57:02 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 10:57:04 PM] [Info] Permissions reloaded
+[4/6/2026 10:57:06 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 10:57:07 PM] [Info] [World] Ababe [Abibabi]: "/vault"
+[4/6/2026 10:57:10 PM] [Info] [World] Ababe [Abibabi]: "/vaults"
+[4/6/2026 10:57:12 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 11:00:23 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 11:04:25 PM] [Info] [World] Alexutzu [Ignat]: "/vault default"
+[4/6/2026 11:04:25 PM] [Info] Permissions reloaded
+[4/6/2026 11:04:31 PM] [Info] [World] Ababe [Abibabi]: "/vault"
+[4/6/2026 11:04:35 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 11:05:21 PM] [Info] Permissions reloaded
+[4/6/2026 11:05:26 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 11:05:29 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 11:06:25 PM] [Info] Permissions reloaded
+[4/6/2026 11:06:30 PM] [Info] [World] Ababe [Abibabi]: "/vaults"
+[4/6/2026 11:06:32 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 11:06:34 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 11:09:13 PM] [Info] Broadcast: Alexutzu disconnected from the server.
+[4/6/2026 11:09:13 PM] [Info] Broadcast: Alexutzu a iesit de pe server! Jucatori activi: 1
+[4/6/2026 11:10:14 PM] [Info] Disconnecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 11:10:14 PM] [Info] Ababe moved x:-425.9872 y:75.63094(+38.12959) z:702.1238 in the last second (0.2240372)
+[4/6/2026 11:10:21 PM] [Info] Connecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 11:10:25 PM] [Info] Broadcast: Alexutzu connected to the server.
+[4/6/2026 11:10:25 PM] [Info] Broadcast: Alexutzu a intrat pe server! Jucatori activi: 2
+[4/6/2026 11:10:25 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 11:10:28 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 11:11:16 PM] [Info] Permissions reloaded
+[4/6/2026 11:11:20 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 11:11:22 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 11:13:25 PM] [Info] Permissions reloaded
+[4/6/2026 11:13:34 PM] [Info] [World] Alexutzu [Ignat]: "/vaults"
+[4/6/2026 11:13:37 PM] [Info] [World] Alexutzu [Ignat]: "/vault"
+[4/6/2026 11:14:02 PM] [Info] Broadcast: Alexutzu disconnected from the server.
+[4/6/2026 11:14:02 PM] [Info] Broadcast: Alexutzu a iesit de pe server! Jucatori activi: 1
+[4/6/2026 11:14:02 PM] [Info] Disconnecting: PlayerID: 76561198013601259 Name: Ignat Character: Alexutzu
+[4/6/2026 11:16:04 PM] [Info] Broadcast: Ababe disconnected from the server.
+[4/6/2026 11:16:04 PM] [Info] Broadcast: Ababe a iesit de pe server! Jucatori activi: 0
+[4/6/2026 11:16:04 PM] [Info] Disconnecting: PlayerID: 76561199466256724 Name: Abibabi Character: Ababe
+[4/6/2026 11:16:06 PM] [Info] 
+[unloading] Kits
